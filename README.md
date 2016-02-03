@@ -1,3 +1,5 @@
 # PythonRpiWorkshop
-This is a work in progress, using Raspberry Pi and python, this is a repo for workshop materials for introducing Raspberry Pi and python to new programmers. 
+This is a repo to hold workshop materials for the upcoming Women Who Code Raspberry Pi and Python Workshop
+
+Instructions on installing Raspberry Pi OS:
 
