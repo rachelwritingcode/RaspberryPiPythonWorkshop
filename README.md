@@ -1,4 +1,6 @@
 # PythonRpiWorkshop
-This is a repo to hold workshop materials for the upcoming Women Who Code Raspberry Pi and Python Workshop
-
+How to setup your Raspberry Pi out of the box?
+Here are some startup guides to help you through the process:
+https://www.raspberrypi.org/help/quick-start-guide/
+http://raspberry.io/wiki/how-to-get-python-on-your-raspberrypi/
 
